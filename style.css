@@ -1,0 +1,42 @@
+html, body
+{
+	height: 80%;
+}
+
+body
+{
+	font-family: arial;
+	background-color: black;
+	color: white;
+}
+
+div#head
+{
+	text-align: center;
+}
+
+h3#ins
+{
+	color: yellow;
+}
+
+h3#scr
+{
+	color: rgb(0, 232, 15);
+}
+
+img#dot:hover
+{
+	cursor: pointer;
+}
+
+div#game
+{
+	border-style: solid;
+	height: 100%;
+}
+
+image#dot
+{
+	position: relative;
+}
